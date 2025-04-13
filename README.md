@@ -40,7 +40,7 @@ We partner with companies to:
 
 Whether you’re just starting your AI journey or looking to scale it across departments — we’ll guide you every step of the way.
 
-📩 **Let’s build the future together:** [info@180degree.ai](mailto:info@180degree.co)
+📩 **Let’s build the future together:** [info@180degree.co](mailto:info@180degree.co)
 
 ---
 ## 👥 Join Us
@@ -49,7 +49,7 @@ We’re a team of developers, designers, and innovators with one mission:
 **To build the intelligent systems of tomorrow — today.**  
 If you’re passionate about AI, product thinking, and impact-driven development, let’s connect.
 
-📩 **Be a part of our team:** [info@180degree.ai](mailto:info@180degree.co)
+📩 **Be a part of our team:** [info@180degree.co](mailto:info@180degree.co)
 
 ---
 
